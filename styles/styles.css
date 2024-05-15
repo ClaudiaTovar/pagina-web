@@ -1,0 +1,23 @@
+body {
+    background-color: aqua;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+nav {
+    background-color: blueviolet;
+    color: white;
+}
+
+iframe {
+    width: 1000px;
+    height: 1000px;
+}
+
+video {
+    width: 500px;
+    height: 1000px;
+}
